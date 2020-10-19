@@ -41,6 +41,9 @@ aside footer p {
 
     width: 100%;
     height: 100%;
+    
+    
+    animation-delay: 200ms;
 }
 
 /* button */
@@ -81,7 +84,8 @@ a.create-orphanage:hover {
 .leaflet-popup-content {
 
     color: #0089A5;
-    
+    font: 800 2rem/1 'Nunito', sans-serif;
+
     margin: .8rem 1.2rem;
 
     display: flex;
@@ -94,7 +98,7 @@ a.create-orphanage:hover {
 
     width: 4rem;
     height: 4rem;
-    background: #15B6D6;
+    background: #15C3D6;
     box-shadow: 17.2868px 27.6589px 41.4884px rgba(23, 162, 144, 0.16);
     border-radius: 12px;
 
@@ -117,8 +121,6 @@ a.create-orphanage:hover {
 }
 
 .leaflet-container {
-
-    font: 700 2rem/1 'Nunito', sans-serif;
 
     z-index: 5;
 }
