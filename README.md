@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/Img/happy.png" width="100%">
+  <img alt="Happy" src="./Img/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
